@@ -1,4 +1,4 @@
-package com.example.testswagger
+package com.example.testswagger.register
 
 data class RegisterData(
     var username: String,
